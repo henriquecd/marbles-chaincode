@@ -27,7 +27,7 @@ import (
 	"time"
 	"strings"
 
-	"github.com/hyperledger/fablic/core/chaincode/shim"
+	"github.com/hyperledger/fabric/core/chaincode/shim"
 )
 
 // SimpleChaincode example simple Chaincode implementation
